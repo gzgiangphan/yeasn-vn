@@ -1,3 +1,24 @@
+# OS
 .DS_Store
+Thumbs.db
+
+# Temp & output
 tmp/
 output/
+
+# Knowledge/source files (not for public repo)
+knowledge/
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Claude / AI
+.claude/
+graphify-out/
+
+# Node (if added later)
+node_modules/
